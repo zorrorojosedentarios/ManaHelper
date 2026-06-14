@@ -1,0 +1,6 @@
+# Cache and local settings
+*.bak
+*.old
+*.tmp
+.DS_Store
+Thumbs.db
